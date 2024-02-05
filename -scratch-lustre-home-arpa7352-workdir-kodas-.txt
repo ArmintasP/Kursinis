@@ -1,0 +1,4 @@
+/scratch/lustre/home/arpa7352/workdir/kodas/diffusion_decoding.py
+/scratch/lustre/home/arpa7352/workdir/kodas/feature-extract.py
+/scratch/lustre/home/arpa7352/workdir/kodas/get-prompts.py
+/scratch/lustre/home/arpa7352/workdir/kodas/latent-extraction.py
